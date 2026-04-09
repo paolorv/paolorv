@@ -7,7 +7,7 @@ Currently, I am focusing on **Large Language Models for Language-Driven Autonomo
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🎓 **Current:** Master's in Computer Science & Engineering (Artificial Intelligence) @ Politecnico di Milano  
 - 🔬 **Research:** Large Language Models and Semantic-Spatial Memory in Robotic Agents, VLMs for Scene-understanding, Human-Robot interaction
 - 🏗 **Background:** Former Electronics Division Member at UniBS Motorsport & Research Assistant at the eLUX Laboratory (University of Brescia)  
@@ -18,7 +18,7 @@ Currently, I am focusing on **Large Language Models for Language-Driven Autonomo
 
 ---
 
-## 💻 Featured Projects & Research
+## Featured Projects & Research
 
 ### 🧠 Semantic-Spatial Memory in Robotic Agents (Master's Thesis)
 - Designed a VLM-driven agent architecture using **Florence-2** and **GPT-4o**
